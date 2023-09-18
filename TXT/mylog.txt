@@ -1,6 +1,18 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W02 44 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 40 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 133 L05 Quiz related including studying
+ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 110 L12 Assignment #02
+ZCZC W02 25 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 5 L41 TXT/mylog.txt related.
+ZCZC W02 120 L73 Gaming including Board Games.
+ZCZC W02 350 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 20 L81 Listening: Radio, Music, etc.
+ZCZC W02 10 L83 Pets: feeding, playing, etc
 ZCZC W01 50 L01 SCELE/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 83 L03 GitHub and git related, including commit, push, pull
