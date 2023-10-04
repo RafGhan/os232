@@ -18,6 +18,8 @@ This video provides an introduction to the concepts of protection and security. 
 [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0&ab_channel=Udacity) ---
 This Video explain about the concept of file system. The video is very short, making it easy and quick to understand the concept of the file system.
 
+[C-Pointers](https://www.programiz.com/c-programming/c-pointers) ---
+This link provides an explanation about C Pointers. It is easy to understand for beginners like me. It also provides example programs on the website.
 
 <br>
 <hr>
