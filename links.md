@@ -21,5 +21,7 @@ This Video explain about the concept of file system. The video is very short, ma
 [C-Pointers](https://www.programiz.com/c-programming/c-pointers) ---
 This link provides an explanation about C Pointers. It is easy to understand for beginners like me. It also provides example programs on the website.
 
+[Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
+This links provides an explanation about the concept of virtual memory, how virtual memory works, and its benefits in operating systems. It also discusses demand paging, a technique used to implement virtual memory in operating systems.
 <br>
 <hr>
