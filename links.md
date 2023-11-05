@@ -23,5 +23,8 @@ This link provides an explanation about C Pointers. It is easy to understand for
 
 [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
 This links provides an explanation about the concept of virtual memory, how virtual memory works, and its benefits in operating systems. It also discusses demand paging, a technique used to implement virtual memory in operating systems.
+
+[Concurrency](https://www.youtube.com/watch?v=xPiu2IzsGfY) ---
+This video explains the use of Go Routines and Channels to address problems involving many requests or multiple processes being completed simultaneously. The video also explains the implementation of concurrency in Golang and why we need it.
 <br>
 <hr>
