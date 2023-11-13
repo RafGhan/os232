@@ -26,5 +26,8 @@ This links provides an explanation about the concept of virtual memory, how virt
 
 [Concurrency](https://www.youtube.com/watch?v=xPiu2IzsGfY) ---
 This video explains the use of Go Routines and Channels to address problems involving many requests or multiple processes being completed simultaneously. The video also explains the implementation of concurrency in Golang and why we need it.
+
+[Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
+This video explains deadlock concepts in 15 minutes.
 <br>
 <hr>
