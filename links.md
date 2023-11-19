@@ -29,5 +29,11 @@ This video explains the use of Go Routines and Channels to address problems invo
 
 [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
 This video explains deadlock concepts in 15 minutes.
+
+[Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) ---
+This link is the main source to do linux from scratch
+
+[How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) ---
+This playlist demonstrates step-by-step instructions on how to do linux from scratch.
 <br>
 <hr>
