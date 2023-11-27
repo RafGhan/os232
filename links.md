@@ -35,5 +35,8 @@ This link is the main source to do linux from scratch
 
 [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) ---
 This playlist demonstrates step-by-step instructions on how to do linux from scratch.
+
+[Chapter 6](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8&ab_channel=Kernotex) ---
+This video is demonstrates how to complete my assignment for this week.
 <br>
 <hr>
